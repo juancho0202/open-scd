@@ -37,5 +37,5 @@ jobs:
         with:
           branch: master
           folder: packages/open-scd/build
-          repository-name: openscd/openscd.github.io
+          repository-name: juancho0202/juancho0202.github.io
           ssh-key: ${{ secrets.DEPLOY_KEY }}
