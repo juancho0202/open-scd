@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openscd/open-scd.git"
+    "url": "git+https://github.com/juancho0202/open-scd.git"
   },
   "license": "Apache-2.0",
   "devDependencies": {
